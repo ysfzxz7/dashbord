@@ -1,0 +1,92 @@
+[
+    {
+       "factoring":"True",
+       "comment":"This company is a powerhouse in the sports industry, with a diverse portfolio of athletes and events. I've always been impressed with their professionalism and commitment to excellence. Highly recommended!",
+       "likes":"5",
+       "rating":"True",
+       "month":"Mar-10",
+       "img":"https://img.com",
+       "tag":"sports"
+    },
+    {
+       "factoring":"flase",
+       "comment":"IMG has been a pioneer in promoting cultural events around the world. Their dedication to showcasing diverse art forms and supporting emerging artists is truly inspiring. I'm grateful for the enriching experiences they provide.",
+       "likes":"8",
+       "rating":"True",
+       "month":"Jan-10",
+       "img":"https://img.com",
+       "tag":"culture"
+    },
+    {
+       "factoring":"false",
+       "comment":"I attended an IMG-sponsored sports event and it was an incredible experience. The organization, logistics, and overall atmosphere were top-notch. Looking forward to more events from IMG!",
+       "likes":"12",
+       "rating":"True",
+       "month":"Feb-10",
+       "img":"https://img.com",
+       "tag":"sports"
+    },
+    {
+       "factoring":"True",
+       "comment":"IMG has played a significant role in promoting cultural exchange through their events. They bring together artists and performers from different backgrounds, fostering understanding and appreciation of diverse cultures.",
+       "likes":"4",
+       "rating":"True",
+       "month":"May-10",
+       "img":"https://img.com",
+       "tag":"culture"
+    },
+    {
+       "factoring":"false",
+       "comment":"I've had the privilege of attending an IMG sports event and it was nothing short of spectacular. The level of talent and the energy in the stadium were electrifying. Kudos to IMG for creating such memorable experiences!",
+       "likes":"10",
+       "rating":"True",
+       "month":"Apr-10",
+       "img":"https://img.com",
+       "tag":"sports"
+    },
+    {
+       "factoring":"True",
+       "comment":"IMG has been instrumental in promoting cultural diversity through their collaborations with artists from all over the world. Their events transcend boundaries and celebrate the richness of different cultures.",
+       "likes":"6",
+       "rating":"True",
+       "month":"Jun-10",
+       "img":"https://img.com",
+       "tag":"culture"
+    },
+    {
+       "factoring":"false",
+       "comment":"Attending an IMG sports event was an unforgettable experience. The passion of the athletes, the excitement of the crowd, and the flawless organization made it an incredible spectacle. Can't wait for the next one!",
+       "likes":"15",
+       "rating":"false",
+       "month":"Sep-10",
+       "img":"https://img.com",
+       "tag":"sports"
+    },
+    {
+       "factoring":"false",
+       "comment":"IMG's commitment to promoting cultural events is commendable. They provide a platform for artists to showcase their talent and create meaningful connections with audiences. Truly a cultural catalyst!",
+       "likes":"9",
+       "rating":"True",
+       "month":"Nov-10",
+       "img":"https://img.com",
+       "tag":"culture"
+    },
+    {
+       "factoring":"false",
+       "comment":"I had the opportunity to attend a sports event organized by IMG, and it was a fantastic experience. The level of competition, the world-class facilities, and the enthusiastic crowd made it an unforgettable day.",
+       "likes":"7",
+       "rating":"True",
+       "month":"Aug-10",
+       "img":"https://img.com",
+       "tag":"sports"
+    },
+    {
+       "factoring":"True",
+       "comment":"IMG's cultural events are a celebration of creativity and diversity. They bring together artists from different disciplines and backgrounds, fostering a sense of unity and appreciation for the arts. Truly inspiring!",
+       "likes":"11",
+       "rating":"false",
+       "month":"Dec-10",
+       "img":"https://img.com",
+       "tag":"culture"
+    }
+ ]
