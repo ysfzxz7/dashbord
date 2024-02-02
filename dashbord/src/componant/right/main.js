@@ -1,10 +1,11 @@
-
+import data from "../../data.json";
 const Links = ()=>
 {
     return (
-        <>
-            <h1>Main</h1>
-        </>
+        <div className="flex flex-wrap justify-center " >
+       
+
+        </div>
     )
 }
 export default Links;

@@ -1,9 +1,13 @@
+import { ChartPieIcon } from "@heroicons/react/16/solid";
+
+
+
 const Aside = ()=>
     { 
     return (
-        <div className="border h-max">
-            <h1>aside</h1>
-        </div>
+        <div className="">
+               
+            </div>
     )
     }
 export default Aside;
