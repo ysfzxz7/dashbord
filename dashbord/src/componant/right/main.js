@@ -2,8 +2,8 @@ import data from "../../data.json";
 const Links = ()=>
 {
     return (
-        <div className="flex flex-wrap justify-center " >
-       
+        <div className=" " >
+            <h1>main</h1>
 
         </div>
     )
