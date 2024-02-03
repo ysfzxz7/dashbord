@@ -1,1 +1,7 @@
-This README file just to share some notes ...
+# React project
+
+![Design Image](./dashbord/desgin.png)
+
+<br>
+
+**We are trying to build this design above with React and Tailwind**
