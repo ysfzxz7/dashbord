@@ -8,9 +8,11 @@ function App() {
   return (
     <div className="App flex">
       <Aside />
-      <Nav />
+     <div>
+     <Nav />
       <Links />
       <Main />
+     </div>
     </div>
   );
 }

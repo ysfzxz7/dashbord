@@ -8,7 +8,7 @@ import { MdDashboard } from 'react-icons/md';
 
 const Aside = () => {
   return (
-    <div className="flex-row h-screen w-[250px] p-3 bg-gray-900">
+    <div className="flex-row h-auto w-[250px] p-3 bg-gray-900">
       {/* profile icon and username */}
       <div className="flex h-fit">
         {/* profile icon */}
