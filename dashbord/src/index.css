@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* style of hr */
+.bold-hr {
+  border-style: solid;
+  border-width: 1px;
+}
