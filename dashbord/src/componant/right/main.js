@@ -8,7 +8,7 @@ const doneData = data.filter(item => item.tag == "done")
 const Links = ()=>
 {
     return (
-        <div className=" main flex px-2  border  bg-gray-200 py-3 h-auto" >
+        <div className=" main flex px-2  border  bg-gray-200 py-3 h-auto c" >
 
 
             {/**these are to do data */}
