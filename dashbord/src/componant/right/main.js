@@ -7,7 +7,7 @@ const inProgressData = data.filter((item) => item.tag === 'progress');
 const doneData = data.filter((item) => item.tag === 'done');
 const Links = () => {
   return (
-    <div className="main flex px-2 py-3 border bg-[#f1f1f1] h-auto">
+    <div className="main flex px-2 py-3 bg-gray-main h-auto">
       {/**these are to do data */}
       <div className="mx-3">
         <h2 className="text-gray-800 text-sm font-extrabold bg-[#E3E3E3] rounded-full w-fit my-4 px-3 py-1 cursor-pointer">

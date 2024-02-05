@@ -6,9 +6,9 @@ import Main from './componant/right/main';
 
 function App() {
   return (
-    <div className="App flex">
+    <div className="App flex bg-gray-main">
       <Aside />
-      <div>
+      <div className="">
         <Nav />
         <Links />
         <Main />
